@@ -25,6 +25,7 @@ body {
   font-size: 32px;
   margin: 0;
   line-height: 1.1;
+  font-family: Unkempt;
   color: #1a1a2e;
 }
 
@@ -33,6 +34,8 @@ body {
   letter-spacing: 2px;
   color: #1a1a2e;
   margin-top: 8px;
+  font-family: Unkempt;
+  
 }
 
 .photo {
